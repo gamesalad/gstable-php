@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="GameInfo" numRows="5" numCols="1" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="game_id"/>
+        <row id="1" name="player_x"/>
+        <row id="2" name="player_o"/>
+        <row id="3" name="current_player"/>
+        <row id="4" name="winner"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="2" readonly="0">0,0,0,0,0</column>
+    </columns>
+</table>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="GameGrid" numRows="9" numCols="2" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="player" type="2" readonly="0">0,0,0,0,0,0,0,0,0</column>
+        <column id="1" name="win" type="2" readonly="0">0,0,0,0,0,0,0,0,0</column>
+    </columns>
+</table>

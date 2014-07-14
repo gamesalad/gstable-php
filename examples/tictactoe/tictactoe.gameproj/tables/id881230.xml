@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="GameList" numRows="1" numCols="4" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="game_id" type="1" readonly="0"></column>
+        <column id="1" name="player_x" type="1" readonly="0"></column>
+        <column id="2" name="player_o" type="1" readonly="0"></column>
+        <column id="3" name="create_at" type="1" readonly="0"></column>
+    </columns>
+</table>

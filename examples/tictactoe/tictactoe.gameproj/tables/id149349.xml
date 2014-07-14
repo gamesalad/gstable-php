@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Player ID" numRows="1" numCols="1" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Player ID"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="2" readonly="0">-1</column>
+    </columns>
+</table>
